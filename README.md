@@ -1,26 +1,23 @@
-# Hi, I'm Noam 
+# Noam Samama
 
-Final-year engineering student, currently a **fullstack software engineer at Société Générale CIB** working on an exotic equity derivatives platform.
+Software engineer working where **capital markets** meet **engineering**. Currently building an exotic equity derivatives platform at **Société Générale CIB**, with a focus on pricing, post-trade workflows, and tokenized assets.
 
-I build software at the intersection of **capital markets** and **engineering**: pricing/risk concepts on one side, clean production-grade backends on the other. Currently exploring **tokenized assets and digital securities**.
+I like turning quantitative finance into software that is tested, documented, and runs in production, not just in a notebook.
 
 ## Featured projects
 
 | Project | What it is | Stack |
 |---|---|---|
-| [Tokenized Bond Settlement Lab](https://github.com/NoamSam/Crypto) | Backend simulating tokenized bond settlement with ISO 20022-style (camt.054) reporting, Swagger docs, CI, full test coverage of the workflow | Python, Django, DRF, OpenAPI, Ruff, GitHub Actions |
-| [Multi-Asset Swap Pricing Platform](https://github.com/NoamSam/multi-asset-swap-pricing-platform) | 13 swap pricers across rates, FX, inflation, equity, credit and commodities, on real curve data with a Streamlit interface | Python, NumPy, SciPy, Streamlit |
-| [Wave Portal](https://github.com/NoamSam/wave-portal) | Full-cycle Ethereum dApp: smart contract with events and cooldown logic, wallet connection, on-chain message feed | Solidity, Hardhat, React, ethers v6 |
-| [Quant Portfolio Cockpit](https://github.com/NoamSam/quant-portfolio-cockpit) | LSTM forecasting, walk-forward backtesting, and mean-variance portfolio optimization in an interactive dashboard | Python, TensorFlow, SciPy, Streamlit |
+| [Multi-Asset Swap Pricing Platform](https://github.com/NoamSam/multi-asset-swap-pricing-platform) · [live demo](https://multi-asset-swap-pricing-platform-we2vbgkirfdom3eq5zrkyu.streamlit.app/) | Pricing engine for 13 swap structures across rates, FX, inflation, equity, credit and commodities, built on real market curves | Python, NumPy, SciPy, Streamlit |
+| [Tokenized Bond Settlement Lab](https://github.com/NoamSam/tokenized-bond-settlement-lab) | Bond settlement backend bridging on-chain atomic DvP (Solidity) with ISO 20022 (camt.054) reporting, fully tested with CI | Python, Django, DRF, Solidity, Hardhat |
+| [Quant Portfolio Cockpit](https://github.com/NoamSam/quant-portfolio-cockpit) | LSTM forecasting, walk-forward backtesting and mean-variance optimization in an interactive dashboard | Python, TensorFlow, SciPy, Streamlit |
+| [Wave Portal](https://github.com/NoamSam/wave-portal) | Full-cycle Ethereum dApp: smart contract with events and cooldown logic, wallet connection, on-chain feed | Solidity, Hardhat, React, ethers v6 |
 
-## Stack
+## Toolbox
 
-`Python` `Django` `FastAPI` `ReactJS` `TypeScript` `PostgreSQL` `Docker` `Kubernetes` `Jenkins` `GitLab CI/CD` `GitHub Actions` `SonarQube` `Polars` `Power BI`
+**Finance** — derivatives pricing, Greeks, vol surfaces, market risk (VaR, Expected Shortfall), post-trade & settlement, tokenization
+**Engineering** — Python, Django, FastAPI, React, TypeScript, PostgreSQL, Docker, CI/CD (GitHub Actions, GitLab, Jenkins)
 
-## 📈 Finance side
-
-Derivatives (Greeks, vol surface), market risk (VaR, Expected Shortfall), post-trade & settlement workflows, tokenization / digital assets.
-
-## 📫 Contact
+## Contact
 
 [LinkedIn](https://www.linkedin.com/in/noam-samama)
