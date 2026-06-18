@@ -8,10 +8,10 @@ I like turning quantitative finance into software that is tested, documented, an
 
 | Project | What it is | Stack |
 |---|---|---|
-| [Multi-Asset Swap Pricing Platform](https://github.com/NoamSam/multi-asset-swap-pricing-platform) · [live demo](https://multi-asset-swap-pricing-platform-we2vbgkirfdom3eq5zrkyu.streamlit.app/) | Pricing engine for 13 swap structures across rates, FX, inflation, equity, credit and commodities, built on real market curves | Python, NumPy, SciPy, Streamlit |
-| [Tokenized Bond Settlement Lab](https://github.com/NoamSam/tokenized-bond-settlement-lab) | Bond settlement backend bridging on-chain atomic DvP (Solidity) with ISO 20022 (camt.054) reporting, fully tested with CI | Python, Django, DRF, Solidity, Hardhat |
-| [Quant Portfolio Cockpit](https://github.com/NoamSam/quant-portfolio-cockpit) | LSTM forecasting, walk-forward backtesting and mean-variance optimization in an interactive dashboard | Python, TensorFlow, SciPy, Streamlit |
-| [Wave Portal](https://github.com/NoamSam/wave-portal) | Full-cycle Ethereum dApp: smart contract with events and cooldown logic, wallet connection, on-chain feed | Solidity, Hardhat, React, ethers v6 |
+| [Multi-Asset Swap Pricing Platform](https://github.com/noamsamama/multi-asset-swap-pricing-platform) · [live demo](https://multi-asset-swap-pricing-platform-we2vbgkirfdom3eq5zrkyu.streamlit.app/) | Pricing engine for 13 swap structures across rates, FX, inflation, equity, credit and commodities, built on real market curves | Python, NumPy, SciPy, Streamlit |
+| [Tokenized Bond Settlement Lab](https://github.com/noamsamama/tokenized-bond-settlement-lab) | Bond settlement backend bridging on-chain atomic DvP (Solidity) with ISO 20022 (camt.054) reporting, fully tested with CI | Python, Django, DRF, Solidity, Hardhat |
+| [Quant Portfolio Cockpit](https://github.com/noamsamama/quant-portfolio-cockpit) | LSTM forecasting, walk-forward backtesting and mean-variance optimization in an interactive dashboard | Python, TensorFlow, SciPy, Streamlit |
+| [Wave Portal](https://github.com/noamsamama/wave-portal) | Full-cycle Ethereum dApp: smart contract with events and cooldown logic, wallet connection, on-chain feed | Solidity, Hardhat, React, ethers v6 |
 
 ## Toolbox
 
