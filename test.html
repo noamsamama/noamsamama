@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>Technical Exercise - RAD Developer</title>
+<style>
+  @page { size: A4; margin: 20mm; }
+  html { -webkit-print-color-adjust: exact; print-color-adjust: exact; }
+  body {
+    font-family: Georgia, "Times New Roman", serif;
+    color: #1a1a1a;
+    line-height: 1.55;
+    max-width: 760px;
+    margin: 40px auto;
+    padding: 0 24px;
+  }
+  header { border-bottom: 3px solid #0b2545; padding-bottom: 14px; margin-bottom: 28px; }
+  .eyebrow { font-family: Arial, Helvetica, sans-serif; font-size: 11px; letter-spacing: 2px;
+             text-transform: uppercase; color: #5a6b82; margin: 0; }
+  h1 { font-size: 25px; color: #0b2545; margin: 6px 0 2px; }
+  .sub { font-family: Arial, Helvetica, sans-serif; font-size: 13px; color: #33475b; margin: 0; }
+  h2 { font-family: Arial, Helvetica, sans-serif; font-size: 15px; color: #0b2545;
+       margin: 26px 0 8px; border-left: 4px solid #1f6feb; padding-left: 10px; }
+  p, li { font-size: 14.5px; }
+  table { border-collapse: collapse; width: 100%; margin: 10px 0; font-size: 13px;
+          font-family: Arial, Helvetica, sans-serif; }
+  th, td { border: 1px solid #cfd8e3; padding: 7px 10px; text-align: left; vertical-align: top; }
+  th { background: #f0f4f9; color: #0b2545; }
+  code { font-family: "Consolas", "Courier New", monospace; background: #f3f5f8;
+         padding: 1px 5px; border-radius: 3px; font-size: 13px; }
+  .callout { background: #f7f9fc; border: 1px solid #d8e0ea; border-left: 4px solid #1f6feb;
+             padding: 12px 16px; border-radius: 4px; margin: 16px 0; font-size: 14px; }
+  footer { margin-top: 34px; padding-top: 12px; border-top: 1px solid #d0d7e2;
+           font-family: Arial, Helvetica, sans-serif; font-size: 11px; color: #7a879b; }
+  em { color: #33475b; }
+</style>
+</head>
+<body>
+
+<header>
+  <p class="eyebrow">Global Markets &middot; Front Office Technology</p>
+  <h1>Technical Exercise</h1>
+  <p class="sub">RAD Developer &mdash; Dealing Room, Asia</p>
+</header>
+
+<h2>Context</h2>
+<p>
+  Our trading desk runs four cross-asset books out of Asia &mdash; rates, credit, FX and
+  equity derivatives &mdash; across a range of currencies. Today the traders and risk
+  managers monitor their positions, P&amp;L and risk in spreadsheets that are fragile
+  and do not scale well as activity grows.
+</p>
+<p>
+  We would like to see a working prototype of a proper <strong>Risk &amp; P&amp;L tool</strong>
+  &mdash; something a trader and a risk manager could genuinely rely on in the morning,
+  before the market opens.
+</p>
+
+<h2>What we are giving you</h2>
+<p>A set of extract files taken from our source systems. The accompanying
+   <code>README_datasets.txt</code> describes every field.</p>
+<table>
+  <tr><th>File</th><th>Contents</th></tr>
+  <tr><td><code>trades.csv</code></td><td>The current trade blotter across the four books</td></tr>
+  <tr><td><code>market_data.csv</code></td><td>A month of daily market data</td></tr>
+  <tr><td><code>risk_sensitivities.csv</code></td><td>Sensitivities from the pricing library</td></tr>
+  <tr><td><code>fx_rates.csv</code></td><td>A month of daily FX rates</td></tr>
+</table>
+<p><em>These are real-world operational extracts. Please treat them as such.</em></p>
+
+<h2>What we are asking</h2>
+<p>
+  Build a working tool that lets a trader and a risk manager understand the desk's
+  <strong>positions, P&amp;L and risk</strong>.
+</p>
+<p>
+  Please use <strong>Python</strong> for the backend and <strong>JavaScript or
+  TypeScript</strong> for the front end. Every other choice is yours to make.
+</p>
+
+<div class="callout">
+  We are not looking for the longest feature list. We are looking for something we
+  would trust on a live desk &mdash; and that a colleague who did not build it could
+  pick up, run and extend.
+</div>
+
+<h2>Practicalities</h2>
+<ul>
+  <li>You have <strong>five business days</strong> from receipt of this brief.</li>
+  <li>Deliver your work as a link to a <strong>Git repository</strong> (GitHub, GitLab or
+      Bitbucket) with its commit history visible.</li>
+  <li>Please do not commit the raw data files to the repository.</li>
+  <li>Be ready to walk us through your solution, and any part of it, in a follow-up
+      conversation.</li>
+</ul>
+
+<footer>
+  Confidential &mdash; provided solely for the purpose of this recruitment exercise.
+  Please do not distribute.
+</footer>
+
+</body>
+</html>
