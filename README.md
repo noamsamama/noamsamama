@@ -21,18 +21,3 @@ I like turning quantitative finance into software that is tested, documented, an
 ## Contact
 
 [LinkedIn](https://www.linkedin.com/in/noam-samama)
-
-
-
-Bonjour Paola,
-
-J'espère que tu as passé de bonnes vacances !
-
-Je voulais te faire un point. Les deux pistes VIE à New York et celle au Canada n'ont finalement pas abouti, ce n'est pas grave, mais je préférais te tenir au courant puisque tu m'avais beaucoup aidé à les faire avancer, et je t'en remercie sincèrement.
-
-De mon côté je reste très motivé et j'élargis un peu mes recherches. J'ai notamment vu passer plusieurs postes en contrat Trainee (Emerging Markets Credit Trading à Londres, quelques rôles à Singapour et Hong Kong) qui m'intéressent, certains sont très techniques et collent bien à mon profil Python/VBA.
-
-Est-ce que ce serait le genre de pistes sur lesquelles tu aurais de la visibilité ou des conseils ? Je prends bien sûr tout ce que tu peux me dire.
-
-Merci encore, et à bientôt !
-Noam
