@@ -21,3 +21,18 @@ I like turning quantitative finance into software that is tested, documented, an
 ## Contact
 
 [LinkedIn](https://www.linkedin.com/in/noam-samama)
+
+
+Bonjour Paola,
+
+J'espère que tu vas bien ! Je voulais te tenir au courant : j'ai postulé à trois offres en interne qui m'intéressent, que je te liste par ordre de préférence.
+
+- Trainee Global Markets Research & Strategy, Singapour (réf. 260008ET) : celle qui correspond le mieux à mon profil quantitatif et à mes compétences Python.
+- V.I.E. Research Analyst, Hong Kong (réf. 26000IWW).
+- Trainee Platform Sales APAC, Singapour (réf. 26000J63).
+
+Je me permets de te les signaler au cas où tu aurais de la visibilité dessus ou la possibilité de faire le lien en interne. Je reste à disposition pour en discuter quand tu veux.
+
+Merci encore pour ton aide, ça compte beaucoup.
+
+Noam
