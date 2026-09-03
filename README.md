@@ -21,3 +21,15 @@ I like turning quantitative finance into software that is tested, documented, an
 ## Contact
 
 [LinkedIn](https://www.linkedin.com/in/noam-samama)
+
+Bonjour Paola,
+
+Merci encore pour ton analyse d'hier, c'était vraiment utile !
+
+Une nouvelle offre vient d'être publiée hier et c'est honnêtement celle qui me correspond le mieux depuis le début de mes recherches, celle qui m'enthousiasme le plus aussi. Je me permets donc de te la signaler :
+
+- 26000J88 : V.I.E. QIS Quantitative Developer, New York.
+
+Elle réunit tout ce que je cherche : développement, quantitatif et proximité avec les desks. Si tu as de la visibilité dessus, je serais vraiment ravi que tu puisses l'aider à ressortir. Merci encore pour ton appui, ça compte beaucoup !
+
+Noam
