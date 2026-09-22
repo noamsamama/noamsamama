@@ -26,6 +26,8 @@ I like turning quantitative finance into software that is tested, documented, an
 
 Subject: Merci et au revoir
 
+Subject: Merci et au revoir
+
 Bonjour à tous,
 
 Mon stage touchant à sa fin la semaine prochaine, je voulais prendre le temps, dès maintenant, de vous adresser ce message pour vous dire au revoir et, surtout, merci.
@@ -34,9 +36,9 @@ Ces derniers mois auront été particulièrement formateurs. J'ai eu la chance d
 
 Un immense merci à Aleryc pour son accompagnement tout au long de ces mois : sa pédagogie, sa disponibilité, et cette sagesse qui passait souvent par le rire. J'ai beaucoup appris à ses côtés, et j'ai aussi beaucoup ri, ce qui n'est pas la moindre des choses.
 
-Merci à toute l'équipe pour votre accueil, votre patience et vos conseils. J'ai vraiment apprécié travailler dans un environnement aussi stimulant, et je repars avec le sentiment d'avoir grandi, techniquement comme humainement.
+Merci à toute l'équipe pour votre accueil, votre patience et vos conseils, et merci aussi à toutes les personnes des équipes voisines avec qui j'ai eu l'occasion de travailler et d'échanger au fil de ces mois. Une pensée toute particulière pour celles et ceux qui font ou ont fait partie de l'univers CPS/TME/Commando : c'est une communauté à part, et j'ai été vraiment heureux d'en faire partie. Ces échanges ont beaucoup compté dans ce que j'ai appris ici, et je repars avec le sentiment d'avoir grandi, techniquement comme humainement.
 
-Une pensée particulière pour Thomas, pour les cafés et les vendredis après-midi en terrasse : ces moments-là comptent autant que le reste, et ils ont beaucoup contribué à faire de ce stage une belle expérience. Une pensée aussi pour tous les autres stagiaires et alternants croisés au fil des semaines.
+Une pensée particulière aussi pour Thomas, pour les cafés et les vendredis après-midi en terrasse : ces moments-là comptent autant que le reste, et ils ont beaucoup contribué à faire de ce stage une belle expérience. Une pensée enfin pour tous les autres stagiaires et alternants croisés au fil des semaines.
 
 Je vous souhaite à toutes et à tous une excellente continuation, et j'espère avoir l'occasion de vous recroiser, ici ou ailleurs.
 
