@@ -51,11 +51,11 @@ Subject: Petit-déj / déj / verre jeudi 24
 
 Hello à tous,
 
-Mon stage se termine bientôt, et j'aimerais marquer le coup avec vous avant de partir. J'ai tout regroupé sur la journée du jeudi 24 :
+Mon stage se termine bientôt, et j'aimerais marquer le coup avec vous avant de partir. Pour laisser à chacun un maximum de chances de passer, j'ai prévu trois moments sur la journée du jeudi 24 : venez à celui qui vous arrange, à plusieurs, ou à tous, comme vous voulez !
 
-- un petit-déj le matin pour bien lancer la journée : rdv 10h30 au 3ème 
-- le midi : resto italien sur le parvis de la Défense, départ de Basalte à 12h05
-- et le soir, un resto ou un bar pour se poser tranquillement
+* un petit-déj le matin pour bien lancer la journée : rdv 10h30 au 3ème
+* le midi : resto italien sur le parvis de la Défense, départ de Basalte à 12h05
+* et le soir, un resto ou un bar pour se poser tranquillement
 
 Pour le soir, dites-moi juste ce que vous préférez (plutôt resto ou plutôt bar, et un coin si vous avez une idée) et je m'occupe de réserver.
 
