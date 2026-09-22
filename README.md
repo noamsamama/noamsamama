@@ -21,3 +21,43 @@ I like turning quantitative finance into software that is tested, documented, an
 ## Contact
 
 [LinkedIn](https://www.linkedin.com/in/noam-samama)
+
+
+
+Subject: Merci et au revoir
+
+Bonjour à tous,
+
+Mon stage touchant à sa fin la semaine prochaine, je voulais prendre le temps, dès maintenant, de vous adresser ce message pour vous dire au revoir et, surtout, merci.
+
+Ces derniers mois auront été particulièrement formateurs. J'ai eu la chance d'apprendre énormément, de livrer, de me tromper parfois, et de progresser au contact d'une équipe aussi exigeante que bienveillante. Chaque échange, qu'il ait porté sur du code, un sujet métier ou simplement le fonctionnement de la maison, a nourri ma compréhension de cet environnement et conforté mon envie de continuer dans cette voie.
+
+Un immense merci à Aleryc pour son accompagnement tout au long de ces mois : sa pédagogie, sa disponibilité, et cette sagesse qui passait souvent par le rire. J'ai beaucoup appris à ses côtés, et j'ai aussi beaucoup ri, ce qui n'est pas la moindre des choses.
+
+Merci à toute l'équipe pour votre accueil, votre patience et vos conseils. J'ai vraiment apprécié travailler dans un environnement aussi stimulant, et je repars avec le sentiment d'avoir grandi, techniquement comme humainement.
+
+Une pensée particulière pour Thomas, pour les cafés et les vendredis après-midi en terrasse : ces moments-là comptent autant que le reste, et ils ont beaucoup contribué à faire de ce stage une belle expérience. Une pensée aussi pour tous les autres stagiaires et alternants croisés au fil des semaines.
+
+Je vous souhaite à toutes et à tous une excellente continuation, et j'espère avoir l'occasion de vous recroiser, ici ou ailleurs.
+
+Encore merci pour tout,
+Noam
+
+
+
+Subject: Petit-déj / déj / verre jeudi 24
+
+Hello à tous,
+
+Mon stage se termine bientôt, et j'aimerais marquer le coup avec vous avant de partir. J'ai tout regroupé sur la journée du jeudi 24 :
+
+- un petit-déj le matin pour bien lancer la journée : rdv 10h30 au 3ème 
+- le midi : resto italien sur le parvis de la Défense, départ de Basalte à 12h05
+- et le soir, un resto ou un bar pour se poser tranquillement
+
+Pour le soir, dites-moi juste ce que vous préférez (plutôt resto ou plutôt bar, et un coin si vous avez une idée) et je m'occupe de réserver.
+
+Dites-moi qui est partant et sur quels moments, histoire que je cale tout ça !
+
+Au plaisir de vous y voir,
+Noam
