@@ -1,6 +1,6 @@
 # Noam Samama
 
-Software engineer working where **capital markets** meet **engineering**. Engineering graduate in Financial Engineering & AI (ESME, 2026). Previously a developer intern on the exotic equity and fixed income derivatives platforms at **Société Générale CIB** (2026), working with front office on pricing and post-trade tools.
+Software engineer working where **capital markets** meet **engineering**. Front Office Developer at **Crédit Agricole CIB** in Hong Kong from January 2027 (12-month VIE). Previously a developer intern on the exotic equity and fixed income derivatives platforms at **Société Générale CIB** (2026), working with front office on pricing and post-trade tools. Engineering graduate in Financial Engineering & AI (ESME, 2026).
 
 I like turning quantitative finance into software that is tested, documented, and runs in production, not just in a notebook.
 
